@@ -1,0 +1,3 @@
+Database: andrey-cv
+Username: root
+Pass: andruja

@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CGS Travel Agency\n"
+"POT-Creation-Date: 2019-07-02 12:58+0530\n"
+"PO-Revision-Date: 2019-07-02 14:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "Oops! That page couldn't be found"
+msgstr "Hoppla! Diese Seite konnte nicht gefunden werden"
+
+#: 404.php:7
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"An diesem Ort wurde anscheinend nichts gefunden. Vielleicht versuchen Sie "
+"es mit einer Suche?"
+
+#. translators: %s: string
+#: archive.php:9
+msgid "Daily Archives:"
+msgstr "Tagesarchiv:"
+
+#. translators: %s: string
+#: archive.php:12
+msgid "Monthly Archives:"
+msgstr "Monatliche Archive:"
+
+#: archive.php:12
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: string
+#: archive.php:15
+msgid "Yearly Archives:"
+msgstr "Jährliches Archiv:"
+
+#: archive.php:15
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:17
+msgid "Blog Archives"
+msgstr "Blog Archiv"
+
+#: archive.php:41 category.php:27 tag.php:35
+msgid "Back"
+msgstr "Zurück"
+
+#: archive.php:42 category.php:28 tag.php:36
+msgid "Next"
+msgstr "Nächster"
+
+#: archive.php:43 category.php:29 tag.php:37
+msgid "Posts"
+msgstr "Beiträge"
+
+#: category.php:6
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: category.php:35 index.php:19 single.php:25 tag.php:43
+msgid "Posts not found"
+msgstr "Beiträge nicht gefunden"
+
+#: class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "Fügen Sie ein Menü hinzu"
+
+#. translators: 1: title.
+#: comments.php:19
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Ein Gedanke zu &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s dachte nach &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken an &ldquo;%2$s&rdquo;"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Kommentarfunktion ist geschlossen."
+
+#: content.php:6 content.php:15
+msgid "by"
+msgstr "durch"
+
+#: content.php:6 content.php:15
+msgid "Posts by admin"
+msgstr "Beiträge von admin"
+
+#: customizer.php:14
+msgid "Link color"
+msgstr "Verknüpfungsfarbe"
+
+#: customizer.php:31
+msgid "Button color"
+msgstr "Knopffarbe"
+
+#: customizer.php:48
+msgid "H1 Tag Color"
+msgstr "H1-Tag-Farbe"
+
+#: customizer.php:65
+msgid "H2 Tag Color"
+msgstr "H2-Tag-Farbe"
+
+#: customizer.php:82
+msgid "H3 Tag Color"
+msgstr "H3-Tag-Farbe"
+
+#: customizer.php:99
+msgid "H4 Tag Color"
+msgstr "H4-Tag-Farbe"
+
+#: customizer.php:116
+msgid "P Tag Color"
+msgstr "P-Tag-Farbe"
+
+#: customizer.php:132 customizer.php:147
+msgid "Header text on banner"
+msgstr "Kopftext auf Banner"
+
+#: customizer.php:161
+msgid "Display banner in inner-pages"
+msgstr "Banner in Innenseiten anzeigen"
+
+#: customizer.php:165
+msgid "Please select"
+msgstr "Bitte auswählen"
+
+#: customizer.php:166
+msgid "Yes"
+msgstr "Ja"
+
+#: customizer.php:167
+msgid "No"
+msgstr "Nein"
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:76
+msgid "Primary Sidebar"
+msgstr "Primäre Seitenleiste"
+
+#. Author of the plugin/theme
+#: functions.php:92
+msgid "CGS Themes"
+msgstr "CGS-Themen"
+
+#. Theme Name of the plugin/theme
+#: functions.php:92
+msgid "CGS Travel Agency"
+msgstr "CGS Reisebüro"
+
+#. translators: 1: Current Year, 2: Site Name, 3: Theme Name.
+#: functions.php:95
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. Theme: %3$s By CGS Themes."
+msgstr "Urheberrechte © %1$s %2$s. Thema: %3$s Nach CGS-Themen."
+
+#: header.php:67
+msgid "Explore The World"
+msgstr "Die Welt erkunden"
+
+#: header.php:73
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisi massa, "
+"tincidunt vel rhoncus sit amet, ultrices ut mi. Cras lacus lectus, vehicula "
+"eu imperdiet a, fermentum et tellus."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisi massa, "
+"tincidunt vel rhoncus sit amet, ultrices ut mi. Cras lacus lectus, vehicula "
+"eu imperdiet a, fermentum et tellus."
+
+#: index.php:14
+msgid "Older posts"
+msgstr "ältere Beiträge"
+
+#: index.php:15
+msgid "Newer posts"
+msgstr "Neuere Beiträge"
+
+#: search.php:9
+msgid "Search results for"
+msgstr "Suchergebnisse für"
+
+#: search.php:28
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: search.php:32
+msgid "Page"
+msgstr "Seite"
+
+#: search.php:40
+msgid "No results for "
+msgstr "Keine Ergebnisse für"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Suche"
+
+#: tag.php:6
+msgid "Tag:"
+msgstr "Etikett:"
+
+#: tag.php:24
+msgid "Tags:"
+msgstr "Stichworte:"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.cgsthemes.com/product/free-travel-agency/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cgsthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Wide */ ?>"
+msgstr ""
